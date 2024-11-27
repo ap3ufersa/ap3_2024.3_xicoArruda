@@ -1,4 +1,4 @@
-## Aula 1 - 12/07/2024 - Git, GitHub, configuração do ambiente e olá mundo
+### U1 - Aula 1 - 28/11/2024 - GitHub, configuração do ambiente e olá mundo (1,0)
 
 ### Criação da conta no GitHub
 
@@ -23,6 +23,5 @@
 
 Após concluir cada questão, faça _commit_ localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub. Conforme [figura](https://drive.google.com/open?id=1dV5TwUdMxSmh80sx13epVcJFewIT_MVk).
 
-1. Escreva um programa em Java que imprima a mensagem "Olá, mundo!" no console. Implemente uma classe chamada "OlaMundo", no arquivo OlaMundo.java, com um método "main". Dentro do método "main", adicione o código necessário para imprimir a mensagem "Olá, mundo!" usando a função `System.out.println()`.
+Entregue a folha assinada.
 
-Gabarito [aqui](https://github.com/ap3ufersa/ap3_2024.1_xicoArruda/blob/main/unidade1/br/com/xico/unidade1/gabarito_aula1/OlaMundo.java).

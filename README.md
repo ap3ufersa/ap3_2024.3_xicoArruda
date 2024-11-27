@@ -8,9 +8,7 @@ Curso de Engenharia de Produção? [Clique aqui.](eng_producao)
 
 ### U1 - Aula 1 - 28/11/2024 - GitHub, configuração do ambiente e olá mundo (1,0)
 
-Configuração do ambiente, Olá Mundo e [exercícios](unidade1/aula1.md).
-
-Nivelamento com [exercícios](unidade1/exercicio0.md).
+Configuração do ambiente, Olá Mundo [aqui](unidade1/aula1.md).
 
 ### U1 - Aula 2 - 29/11/2024 - Tipos Primitivos e Classes (2,0)
 

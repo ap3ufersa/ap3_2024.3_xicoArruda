@@ -20,7 +20,7 @@ Fluxograma com Mermaid [aqui](exercicio1.md).
 
 ### Exercício de Avaliação
 
-[Aqui.](exercicio2.md).
+[Aqui.](exercicio2.md)
 
 
 ---

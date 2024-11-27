@@ -17,10 +17,9 @@ Nivelamento com [exercícios](unidade1/exercicio0.md).
 Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aula2.md).
 
 ### U1 - Aula 3 - 05/12/2024 - Classe, objeto, método, atributo, lista ligada (2,0)
-Classe e [exercícios](unidade1/aula3.md).
 
 Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O., Média com Prog. Estruturada, Classe Aluno, TestaAluno e Lista de Alunos 
-com [exercícios](unidade1/aula4.md).
+com [exercícios](unidade1/aula3.md) e mais [exercícios](unidade1/aula4.md).
 
 ### U2 - Aula 4 - 06/12/2024 - I/O, Entrada e saída, datas (1,0)
 

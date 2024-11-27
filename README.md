@@ -6,65 +6,49 @@ Engenharia de Produção? [Clique aqui.](eng_producao)
 
 ---
 
-## Unidade 1
-
-### Aula 1 - 12/07/2024 - Git, GitHub, configuração do ambiente e olá mundo
-
+### U1 - Aula 1 - 28/11/2024 - Git, GitHub, controle de versão, configuração do ambiente e olá mundo 
 Configuração do ambiente e Olá Mundo e [exercícios](unidade1/aula1.md), feito em sala.
-
-### Aula 2 - 19/07/2024 - Controle de versão e classes
-
+### U1 - Aula 2 - 29/11/2024 - Tipos Primitivos e Classes 
 Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aula2.md), feito em sala.
-
-### Aula 3 - 26/07/2024 - Controle de versão, tipos primitivos e classes
-
-Mais controle de versão. Classe e objeto. Classe e [exercícios](unidade1/aula3.md), feito em sala.
-
-### Aula 4 - 02/08/2024 - Classe, objeto, método, atributo, lista ligada
-
 Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O., Média com Prog. Estruturada, Classe Aluno, TestaAluno e Lista de Alunos com [exercícios](unidade1/aula4.md), feito em sala.
 
-### Aula 5 - 09/08/2024 - I/O - Entrada e saída, datas
+### U1 - Aula 3 - 05/12/2024 - Classe, objeto, método, atributo, lista ligada 
+Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O., Média com Prog. Estruturada, Classe Aluno, TestaAluno e Lista de Alunos com [exercícios](unidade1/aula4.md), feito em sala.
 
+Mais controle de versão. Classe e objeto. Classe e [exercícios](unidade1/aula3.md), feito em sala.
+### U2 - Aula 4 - 06/12/2024 - I/O, Entrada e saída, datas
+
+### U2 - Aula 5 - 12/12/2024 - Visibilidade, Composição 
+
+### U2 - Aula 6 - 13/12/2024 - Início de Herança 
+
+### U3 - Aula 7 - 19/12/2024 - Herança e Polimorfismo 
+
+### U3 - Aula 8 - 20/12/2024 - Exceptions 
+
+
+### Aula 5
 Scanner, formatação da saída e datas com [exercícios](unidade1/aula5.md), feito em sala.
 
+### Exercício 1
 Fazer os [exercícios](unidade1/exercicio1.md).
 
 ### Aula 6 - 23/08/2024 - Visibilidade
-
-Correção do exercício 1, UML e visibilidade com [exercícios](unidade1/aula6.md), em sala valendo 1,0 ponto.
+UML e visibilidade com [exercícios](unidade1/aula6.md), em sala valendo 1,0 ponto.
 
 ### Aula 7 - 30/08/2024 - Composição, esteira
-
 Esteira de [_build_](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxDa-Oj1fz7KfOSyqAOG7bVwNBsiceGB_R). UML e protected com [exercícios](unidade1/aula6.md), em sala valendo 2,0 pontos.
 
----
-
-## Unidade 2
-
-### Aula 8 - 06/09/2024 - Início de Herança
-
+### Aula 8
 Início de Herança, MeR UmPraMuitos com [exercícios](unidade2/aula8.md), em sala valendo 1,0 ponto.
-
-### Aula 9 - 20/09/2024 - Herança e Polimorfismo
 
 Herança e Polimorfismo com [exercícios](unidade2/aula9.md), em sala valendo 2,0 pontos.
 
-### Aula 10 - 27/09/2024 - Herança e Polimorfismo
-
 Herança e polimorfismo com [exercícios](unidade2/aula10.md), em sala valendo 2,0 pontos.
-
----
-
-## Unidade 3
 
 ### Aula 11 - 11/10/2024 - Exceptions
 
 Exceptions com [exercícios](unidade3/aula11.md), em sala valendo 2,0 pontos.
-
-### Aula 12 - 18/10/2024 - Threads e Method Reference
-
-Programação multithread com [exercícios](unidade3/aula12.md), em sala valendo 3,0 pontos.
 
 ---
 

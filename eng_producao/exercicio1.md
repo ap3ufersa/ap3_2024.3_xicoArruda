@@ -82,7 +82,7 @@ classDiagram
 - Geração de Relatórios: Como o sistema gera relatórios para produtos com estoque baixo e sobre os lotes produzidos.
 
 2. **Nomes dos Arquivos**:
-   
+
 _unidade1_cadProdutos_fulanoDeTal.mmd_ 
 
 _unidade1_regLotes_fulanoDeTal.mmd_ 
@@ -92,6 +92,6 @@ _unidade1_estoque_fulanoDeTal.mmd_
 _unidade1_relatorios_fulanoDeTal.mmd_ 
 
 
-1. **Melhoria**: Proponha melhorias no cadastro, considerando a volumetria dos produtos.
+3. **Melhoria**: Proponha melhorias no cadastro, considerando a volumetria dos produtos.
    
-2. **Repositório GitHub**: Após concluir a modelagem, exporte o diagrama de classes para PNG utilizando Mermaid Live e faça o commit e push para o repositório GitHub da disciplina.
+4. **Repositório GitHub**: Após concluir a modelagem, exporte o diagrama de classes para PNG utilizando Mermaid Live e faça o commit e push para o repositório GitHub da disciplina.

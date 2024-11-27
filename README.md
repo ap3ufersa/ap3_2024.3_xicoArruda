@@ -2,38 +2,45 @@
 
 Repositório de Algoritmos e Programação 3 da UFERSA Angicos no semestre 2024.3 do professor Francisco Arruda (Xico).
 
-Engenharia de Produção? [Clique aqui.](eng_producao)
+Curso de Engenharia de Produção? [Clique aqui.](eng_producao)
 
 ---
 
-### U1 - Aula 1 - 28/11/2024 - Git, GitHub, controle de versão, configuração do ambiente e olá mundo 
+### U1 - Aula 1 - 28/11/2024 - GitHub, configuração do ambiente e olá mundo (1,0)
+
+Configuração do ambiente, Olá Mundo e [exercícios](unidade1/aula1.md).
 
 Nivelamento com [exercícios](unidade1/exercicio0.md).
 
-Configuração do ambiente e Olá Mundo e [exercícios](unidade1/aula1.md).
+### U1 - Aula 2 - 29/11/2024 - Tipos Primitivos e Classes (2,0)
 
-### U1 - Aula 2 - 29/11/2024 - Tipos Primitivos e Classes 
-Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aula2.md)
-Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O., Média com Prog. Estruturada, Classe Aluno, TestaAluno e Lista de Alunos com [exercícios](unidade1/aula4.md)
+Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aula2.md).
 
-### U1 - Aula 3 - 05/12/2024 - Classe, objeto, método, atributo, lista ligada 
-Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O., Média com Prog. Estruturada, Classe Aluno, TestaAluno e Lista de Alunos com [exercícios](unidade1/aula4.md)
+### U1 - Aula 3 - 05/12/2024 - Classe, objeto, método, atributo, lista ligada (2,0)
+Classe e [exercícios](unidade1/aula3.md).
 
-Mais controle de versão. Classe e objeto. Classe e [exercícios](unidade1/aula3.md)
-### U2 - Aula 4 - 06/12/2024 - I/O, Entrada e saída, datas
-Scanner, formatação da saída e datas com [exercícios](unidade1/aula5.md)
+Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O., Média com Prog. Estruturada, Classe Aluno, TestaAluno e Lista de Alunos 
+com [exercícios](unidade1/aula4.md).
 
-### U2 - Aula 5 - 12/12/2024 - Visibilidade, Composição 
-UML e visibilidade com [exercícios](unidade1/aula6.md), em sala valendo 1,0 ponto.
+### U2 - Aula 4 - 06/12/2024 - I/O, Entrada e saída, datas (1,0)
 
-### U2 - Aula 6 - 13/12/2024 - Início de Herança 
-Início de Herança, MeR UmPraMuitos com [exercícios](unidade2/aula8.md), em sala valendo 1,0 ponto.
-### U3 - Aula 7 - 19/12/2024 - Herança e Polimorfismo 
-Herança e Polimorfismo com [exercícios](unidade2/aula9.md), em sala valendo 2,0 pontos.
-Herança e polimorfismo com [exercícios](unidade2/aula10.md), em sala valendo 2,0 pontos.
+Scanner, formatação da saída e datas com [exercícios](unidade1/aula5.md).
 
-### U3 - Aula 8 - 20/12/2024 - Exceptions 
-Exceptions com [exercícios](unidade3/aula11.md), em sala valendo 2,0 pontos.
+### U2 - Aula 5 - 12/12/2024 - Visibilidade, Composição (2,0)
+
+UML e visibilidade com [exercícios](unidade1/aula6.md).
+
+### U2 - Aula 6 - 13/12/2024 - Início de Herança (2,0)
+
+Início de Herança, MeR UmPraMuitos com [exercícios](unidade2/aula8.md).
+
+### U3 - Aula 7 - 19/12/2024 - Herança e Polimorfismo (2,5)
+
+Herança e Polimorfismo com [exercícios](unidade2/aula9.md) e mais [exercícios](unidade2/aula10.md).
+
+### U3 - Aula 8 - 20/12/2024 - Exceptions (2,5)
+
+Exceptions com [exercícios](unidade3/aula11.md).
 
 ---
 

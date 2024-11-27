@@ -4,9 +4,7 @@
 
 ### Questões - Faça em Java
 
-1. (0,5) Corrija os erros do arquivo "Questao1.java" que estão no seu repositório.
-
-2. (0,5) Em um método _main_, faça um programa que exiba para o usuário o menor inteiro positivo de uma lista ligada <inteiro> de 9999 números gerados aleatoriamente.
+1. (0,5) Em um método _main_, faça um programa que exiba para o usuário o menor inteiro positivo de uma lista ligada <inteiro> de 9999 números gerados aleatoriamente.
 
 3. (0,5) Sabendo que latão é 70% de cobre e 30% de zinco, indique a quantidade de cada um desses componentes para se obter uma certa quantidade de quilos de latão que foi requerida pelo usuário.
 

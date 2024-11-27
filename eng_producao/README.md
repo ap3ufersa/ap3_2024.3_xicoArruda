@@ -8,7 +8,7 @@ Para o curso de Engenharia de Produção.
 
 ### Aula 1
 
-Configuração do ambiente para entrega dos exercícios [aqui](aula1.md)
+Configuração do ambiente para entrega dos exercícios [aqui](aula1.md).
 
 ### Exercício de Avaliação
 
@@ -20,7 +20,7 @@ Fluxograma com Mermaid [aqui](exercicio1.md).
 
 ### Exercício de Avaliação
 
-[A ver.](exercicio2.md).
+[Aqui.](exercicio2.md).
 
 
 ---
@@ -29,4 +29,4 @@ Fluxograma com Mermaid [aqui](exercicio1.md).
 
 ### Exercício de Avaliação
 
-[A ver.](exercicio3.md).
+[Aqui.](exercicio3.md)

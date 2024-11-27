@@ -1,6 +1,6 @@
-# Programação de Computadores - 2024.1 - UFERSA Angicos
+# Programação de Computadores - 2024.3 - UFERSA Angicos
 
-Para Engenharia de Produção
+Para o curso de Engenharia de Produção.
 
 ---
 
@@ -12,7 +12,7 @@ Configuração do ambiente para entrega dos exercícios [aqui](aula1.md)
 
 ### Exercício de Avaliação
 
-Modelagem com Mermaid [aqui](exercicio1.md).
+Fluxograma com Mermaid [aqui](exercicio1.md).
 
 ---
 

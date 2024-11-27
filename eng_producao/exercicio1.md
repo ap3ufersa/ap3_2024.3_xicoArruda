@@ -73,14 +73,20 @@ classDiagram
 ```
 
 ### O que é pra entregar?
-1. **Fluxograma**: De acordo com o que foi apresentado, me entregue o fluxograma utilizando a linguagem mermaid, para cada um dos fluxos de operações e interações dos diferentes componentes do sistema. Antes de entregar, teste o seu fluxograma em [mermaid.live](https://mermaid.live/). 
-   
-2. Os fluxogramas a serem entregues são:
+1. **Fluxogramas**: De acordo com o que foi apresentado, me entregue 4 fluxogramas, pelo github, utilizando a linguagem mermaid, para cada um dos fluxos de operações e interações dos diferentes componentes do sistema. Antes de entregar, teste o seu fluxograma em [mermaid.live](https://mermaid.live/). 
+
+2. Os fluxos a serem entregues são:
 - Cadastro de Produtos: Como os produtos serão adicionados ao sistema, considerando o código, nome e as quantidades mínima e atual de estoque.
 - Registro de Lotes de Produção: Como os lotes de produção serão registrados, associando-os aos produtos e controlando a quantidade produzida e sua inserção no estoque.
 - Controle de Estoque: O gerenciamento das entradas e saídas de produtos no estoque, incluindo a verificação de estoque mínimo e a atualização dos níveis de estoque.
 - Geração de Relatórios: Como o sistema gera relatórios para produtos com estoque baixo e sobre os lotes produzidos.
 
-3. Proponha melhorias no cadastro, considerando a volumetria dos produtos.
+2. **Nomes dos Arquivos**:
+_unidade1_cadProdutos_fulanoDeTal.mmd_ 
+_unidade1_regLotes_fulanoDeTal.mmd_ 
+_unidade1_estoque_fulanoDeTal.mmd_ 
+_unidade1_relatorios_fulanoDeTal.mmd_ 
+
+3. **Melhoria**: Proponha melhorias no cadastro, considerando a volumetria dos produtos.
    
-4. **Repositório GitHub**: Após concluir a implementação, exporte o diagrama de classes para PNG utilizando Mermaid Live e faça o commit e push para o repositório GitHub da disciplina.
+2. **Repositório GitHub**: Após concluir a modelagem, exporte o diagrama de classes para PNG utilizando Mermaid Live e faça o commit e push para o repositório GitHub da disciplina.

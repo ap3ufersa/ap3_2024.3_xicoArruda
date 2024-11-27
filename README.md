@@ -14,12 +14,11 @@ Nivelamento com [exercícios](unidade1/exercicio0.md).
 
 ### U1 - Aula 2 - 29/11/2024 - Tipos Primitivos e Classes (2,0)
 
-Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aula2.md).
+Controle de versão, classe Pessoa, coleções e [exercícios](unidade1/aula2.md).
 
 ### U1 - Aula 3 - 05/12/2024 - Classe, objeto, método, atributo, lista ligada (2,0)
 
-Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O., Média com Prog. Estruturada, Classe Aluno, TestaAluno e Lista de Alunos 
-com [exercícios](unidade1/aula3.md) e mais [exercícios](unidade1/aula4.md).
+Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O. e [exercícios](unidade1/aula3.md) e mais [exercícios](unidade1/aula4.md).
 
 ### U2 - Aula 4 - 06/12/2024 - I/O, Entrada e saída, datas (1,0)
 
@@ -31,7 +30,7 @@ UML e visibilidade com [exercícios](unidade1/aula6.md).
 
 ### U2 - Aula 6 - 13/12/2024 - Início de Herança (2,0)
 
-Início de Herança, MeR UmPraMuitos com [exercícios](unidade2/aula8.md).
+Herança, MeR UmPraMuitos com [exercícios](unidade2/aula8.md).
 
 ### U3 - Aula 7 - 19/12/2024 - Herança e Polimorfismo (2,5)
 

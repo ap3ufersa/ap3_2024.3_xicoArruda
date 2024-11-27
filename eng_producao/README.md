@@ -20,13 +20,13 @@ Modelagem com Mermaid [aqui](exercicio1.md).
 
 ### Exercício de Avaliação
 
-A ver.
+[A ver.](exercicio2.md).
 
 
 ---
 
 ## Unidade 3
 
-### Aula 11 - 11/10/2024 - Exceptions
+### Exercício de Avaliação
 
-A ver.
+[A ver.](exercicio3.md).

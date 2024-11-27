@@ -76,3 +76,5 @@ classDiagram
 1. De
 
 4. **Repositório GitHub**: Após concluir a implementação, exporte o diagrama de classes para PNG utilizando Mermaid Live e faça o commit e push para o repositório GitHub da disciplina.
+
+Teste o seu fluxograma em [mermaid.live](https://mermaid.live/). 

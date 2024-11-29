@@ -4,7 +4,7 @@
 
 1. Crie o arquivo `unidade1/exercicio2_1.mmd` com o fluxograma descrito a seguir, usando a [documentação oficial](https://mermaid.js.org/syntax/flowchart.html) e o [editor Mermaid](https://mermaid.live/). Quando finalizar, faça o commit e push para o seu repositório, conforme [figura](https://drive.google.com/open?id=1dV5TwUdMxSmh80sx13epVcJFewIT_MVk).
 
-Imite o fluxograma:
+Para entender a sintaxe e se habituar com o Mermaid, imite o seguinte fluxograma que modela de forma simplificada uma fábrida de pisca-pisca de Natal:
 
 ![Fluxograma pisca_pisca](u1_exercicio2_1.png)
 

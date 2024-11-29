@@ -2,7 +2,7 @@
 
 Repositório de Algoritmos e Programação 3 da UFERSA Angicos no semestre 2024.3 do professor Francisco Arruda (Xico).
 
-Curso de Engenharia de Produção? [Clique aqui.](eng_producao)
+Disciplina [Programação de Computadores](prog_computadores).
 
 ---
 

@@ -17,8 +17,4 @@
 1. Instale o [JDK](https://adoptium.net/temurin/releases/), arquivo .msi versão x64 21 LTS, marcando [as opções](https://drive.google.com/open?id=1BMqLvV0vZPz728qvQq2JVdf9McBGN9PY) e [liberando o firewall](https://drive.google.com/open?id=1BTl2hp2ZlEhAVqhpDfMOC0SY4ztLtMzs) caso necessário.
 2. Instale o [VSCode](https://code.visualstudio.com/).
 3. Instale as extensões: _Extension Pack for Java | Portuguese (Brazil) | Theme | vscode-icons | prettier java_.
-4. Siga para os exercícios.
-
-### Exercícios
-
-1. Escreva um arquivo .txt com seu nome. Faça o commit e push para seu repositório, conforme [figura](https://drive.google.com/open?id=1dV5TwUdMxSmh80sx13epVcJFewIT_MVk).
+4. Siga para o exercício 1.

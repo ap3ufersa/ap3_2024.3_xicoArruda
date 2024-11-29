@@ -1,18 +1,17 @@
 # Programação de Computadores - 2024.3 - UFERSA Angicos
 
-Para o curso de Engenharia de Produção.
-
 ---
 
 ## Unidade 1
 
-### Aula 1
+### Aula 1 - 28/11/2024
 
-Configuração do ambiente para entrega dos exercícios [aqui](aula1.md).
+1. Configuração do ambiente para entrega dos exercícios [aqui](u1_aula1.md).
+2. (1,0) Exercicio 1 - MMD e nome [aqui](u1_exercicio1.md).
 
-### Exercício de Avaliação
+### Aula 2 - 29/11/2024
 
-Fluxograma com Mermaid [aqui](exercicio1.md).
+1. (2,0) Exercicio 2 - Fluxograma com mermaid [aqui](u1_exercicio2.md).
 
 ---
 
@@ -20,7 +19,7 @@ Fluxograma com Mermaid [aqui](exercicio1.md).
 
 ### Exercício de Avaliação
 
-[Aqui.](exercicio2.md)
+[Aqui.](u2_exercicio1.md)
 
 
 ---
@@ -29,4 +28,4 @@ Fluxograma com Mermaid [aqui](exercicio1.md).
 
 ### Exercício de Avaliação
 
-[Aqui.](exercicio3.md)
+[Aqui.](u3_exercicio1.md)

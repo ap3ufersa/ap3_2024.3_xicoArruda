@@ -39,29 +39,29 @@ A modelagem inicial incluiu as seguintes entidades:
 ```mermaid
 classDiagram
     class Produto {
-        - codigo: ?
-        - nome: ?
-        - quantidadeMinimaEstoque: ?
-        - quantidadeEmEstoque: ?
-        + adicionarEstoque(quantidade: int): ?
-        + removerEstoque(quantidade: int): ?
-        + verificarEstoqueMinimo(): ?
+        - codigo: String
+        - nome: String
+        - quantidadeMinimaEstoque: int
+        - quantidadeEmEstoque: int
+        + adicionarEstoque(quantidade: int): void
+        + removerEstoque(quantidade: int): void
+        + verificarEstoqueMinimo(): boolean
     }
 
     class Lote {
-        - numeroLote: ?
-        - dataProducao: ?
+        - numeroLote: String
+        - dataProducao: LocalDateTime
         - produto: Produto
-        - quantidadeProduzida: ?
-        + registrarLote(): ?
-        + adicionarProdutoAoEstoque(): ?
+        - quantidadeProduzida: int
+        + registrarLote(): void
+        + adicionarProdutoAoEstoque(): void
     }
 
     class Estoque {
         - produtos: List<Produto>
         + adicionarProduto(produto: Produto): void
         + removerProduto(codigo: String, quantidade: int): void
-        + verificarEstoqueProduto(codigo: String): ?
+        + verificarEstoqueProduto(codigo: String): int
     }
 
     class Main {
@@ -75,11 +75,4 @@ classDiagram
 
 ```
 
-2. (1,5) Análise de Casos de Uso
-
-Descreva dois casos de uso principais para o sistema implementado:
-
-    Caso de uso 1: Cadastro de novos produtos e lotes.
-    Caso de uso 2: Geração de relatório de produtos com estoque baixo.
-    
 Quando finalizar, faça o commit e push para o seu repositório, conforme [figura](https://drive.google.com/open?id=1dV5TwUdMxSmh80sx13epVcJFewIT_MVk).

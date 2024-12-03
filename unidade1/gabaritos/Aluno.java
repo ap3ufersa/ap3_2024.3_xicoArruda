@@ -57,7 +57,7 @@ public class Aluno {
 
     @Override
     public String toString() {
-        return "Aluno [nome=" + nome + ", nota1=" + nota1 + ", nota2=" + nota2 + ", nota3=" + nota3 + "]";
+        return "Aluno [nome=" + nome + ", nota1=" + nota1 + ", nota2=" + nota2 + ", nota3=" + nota3 + ", media=" + getMedia() + "]";
     }
 
 }

@@ -45,7 +45,7 @@ classDiagram
 ```
 #### (1,0) - Questão 1 - Tipos de Dados
 
-Crie o arquivo `unidade1/exercicio3_1.mmd` com o diagrama de classes representando o sistema proposto (clique em "raw" no canto superior direito). Sugira os tipos de dados adequados para cada classe. [Esses exemplos](gabaritosAula3) podem ajudar. Use também a [documentação oficial](https://mermaid.js.org/syntax/flowchart.html) e o [editor online Mermaid](https://mermaid.live/). 
+Crie o arquivo `unidade1/exercicio3_1.mmd` com o diagrama de classes representando o sistema proposto (clique em "Raw" no canto superior direito). Sugira os tipos de dados adequados para cada atributo. [Esses exemplos](gabaritosAula3) podem ajudar. Use também a [documentação oficial](https://mermaid.js.org/syntax/flowchart.html) e o [editor online Mermaid](https://mermaid.live/). 
 
 #### (1,0) - Questão 2 - Diagrama de Sequencia
 

@@ -16,15 +16,15 @@ Controle de versão, classe Pessoa, coleções e [exercícios](unidade1/aula2.md
 
 ### U1 - Aula 3 - 05/12/2024 - Classe, objeto, método, atributo (2,0)
 
-Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O. e [exercícios](unidade1/aula3.md)
+Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O. e [exercícios](unidade1/aula3.md).
 
 ### U2 - Aula 4 - 06/12/2024 - Lista ligada, datas, Scanner (1,0)
 
-Lista ligada, formatação da saída e datas com [exercícios](unidade1/aula4.md) e mais [exercícios](unidade1/aula5.md)
+Lista ligada, formatação da saída e datas com [exercícios](unidade1/aula4.md).
 
 ### U2 - Aula 5 - 12/12/2024 - Visibilidade, Composição (2,0)
 
-UML e visibilidade com [exercícios](unidade1/aula6.md).
+UML e visibilidade com [exercícios](unidade1/aula5.md) e [exercícios](unidade1/aula6.md).
 
 ### U2 - Aula 6 - 13/12/2024 - Início de Herança (2,0)
 

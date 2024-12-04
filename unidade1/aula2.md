@@ -8,7 +8,7 @@
 
 - String é uma classe _muito_ especial usada para representar [sequências de caracteres](stringEmJava.png)
 
-### Exercícios
+### Exercícios em Sala
 
 Após concluir cada questão, faça _commit_ localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub. Conforme [figura](https://drive.google.com/open?id=1dV5TwUdMxSmh80sx13epVcJFewIT_MVk).
 

@@ -17,7 +17,7 @@ public class Aluno {
         return (nota1 + nota2 + nota3) / 3;
     }
 
-    public boolean aprovadoMedia() {
+    public boolean isAprovadoMedia() {
         if (getMedia() >= 7)
             return true;
         return false;

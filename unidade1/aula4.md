@@ -21,16 +21,16 @@ classDiagram
             + double getNota3()
             + void setNota3(double nota)
             + String toString()
-            + double calcularMedia()
+            + double getMedia()
             + boolean isAprovadoMedia()
-            + String exibirNomeMaiusculo()
-            + String exibirNomeMinusculo()
+            + String getNomeMaiusculo()
+            + String getNomeMinusculo()
         }
 
         class TestaAluno {
             +void main()
             - ArrayList<Aluno> osAlunos
-            + void lerAlunosViaScanner()
+            + void lerInformacoesComScanner()
         }
     }
     Aluno "1..*" -- "1" TestaAluno : "alunos"

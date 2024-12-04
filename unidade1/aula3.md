@@ -31,11 +31,10 @@ classDiagram
             + double getNota3()
             + void setNota3(double nota)
             + String toString()
-            //metodosAdicionais
-            + double calcularMedia()
+            + double getMedia()
             + boolean isAprovadoMedia()
-            + String exibirNomeMaiusculo()
-            + String exibirNomeMinusculo()
+            + String getNomeMaiusculo()
+            + String getNomeMinusculo()
         }
 
         class TestaAluno {

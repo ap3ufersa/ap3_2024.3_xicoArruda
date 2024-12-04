@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Aula3_2_TestaListaDeAlunos {
+public class Aula4_TestaListaDeAlunos {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<Aluno> alunos = new ArrayList<>();

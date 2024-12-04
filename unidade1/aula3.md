@@ -44,6 +44,7 @@ classDiagram
     Aluno "1" -- "1" TestaAluno : testa
 ```
 
+
 ### Exercícios em Sala
 
 Após concluir cada questão, faça _commit_ localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub. Conforme [figura](https://drive.google.com/open?id=1dV5TwUdMxSmh80sx13epVcJFewIT_MVk).

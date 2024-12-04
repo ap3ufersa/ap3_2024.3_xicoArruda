@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Aula3_2_TestaAluno {
+public class Aula4_TestaAluno {
     public static void main(String[] args) {
 
         System.out.println();

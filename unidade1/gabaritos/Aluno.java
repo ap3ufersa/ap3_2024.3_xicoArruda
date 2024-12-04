@@ -5,24 +5,6 @@ public class Aluno {
     double nota2 = -1;
     double nota3 = -1;
 
-    public String getNomeMaisculo() {
-        return nome.toUpperCase();
-    }
-
-    public String getNomeMinusculo() {
-        return nome.toLowerCase();
-    }
-
-    public double getMedia() {
-        return (nota1 + nota2 + nota3) / 3;
-    }
-
-    public boolean isAprovadoMedia() {
-        if (getMedia() >= 7)
-            return true;
-        return false;
-    }
-
     public String getNome() {
         return nome;
     }
@@ -55,9 +37,28 @@ public class Aluno {
         this.nota3 = nota3;
     }
 
+    public String getNomeMaisculo() {
+        return nome.toUpperCase();
+    }
+
+    public String getNomeMinusculo() {
+        return nome.toLowerCase();
+    }
+
+    public double getMedia() {
+        return (nota1 + nota2 + nota3) / 3;
+    }
+
+    public boolean isAprovadoMedia() {
+        if (getMedia() >= 7)
+            return true;
+        return false;
+    }
+
     @Override
     public String toString() {
-        return "Aluno [nome=" + nome + ", nota1=" + nota1 + ", nota2=" + nota2 + ", nota3=" + nota3 + ", media=" + getMedia() + "]";
+        return "Aluno [nome=" + nome + ", nota1=" + nota1 + ", nota2=" + nota2 + ", nota3=" + nota3 + ", media="
+                + getMedia() + "]";
     }
 
 }

@@ -2,15 +2,8 @@
 
 ### Exercícios Resolvidos
 
-1. Lista de Alunos e Scanner: 
-
-
-Crie uma classe ```Aluno``` que tenha os atributos nome e três notas. Implemente métodos para calcular a média das notas e para verificar se o aluno foi aprovado (média maior ou igual a 7.0) ou reprovado. Implemente métodos para exibir o nome do aluno em letras maiúsculas e minúsculas. Crie uma classe TestaAluno para instanciar um aluno e exibir suas informações, incluindo a média e o status de aprovação. Implemente/gere automagicamente getters, setters e toString. Crie a classe TestaAluno, com 2 alunos.
-
-
 1. Lista de Alunos e Scanner: Crie uma classe ```Aluno``` que tenha os atributos nome e três notas. Implemente métodos para calcular a média das notas e para verificar se o aluno foi aprovado (média maior ou igual a 7.0) ou reprovado. Adicione métodos para exibir o nome do aluno em letras maiúsculas e minúsculas. Implemente/gere automagicamente getters, setters e toString. Crie uma classe ```TestaAluno``` para instanciar 5 alunos, cujas informações devem ser lidas do usuário via **Scanner**, armazenadas em um **ArrayList** e exibidas posteriormente com o nome, média e status de aprovação de cada aluno. 
 
-```mermaid
 ```mermaid
 classDiagram
     namespace package_aluno {

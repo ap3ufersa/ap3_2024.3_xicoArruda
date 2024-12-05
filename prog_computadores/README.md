@@ -13,6 +13,10 @@
 
 1. (2,0) Exercicio 2 - Fluxograma com mermaid [aqui](u1_exercicio2.md).
 
+### Aula 3 - 29/11/2024
+
+1. (2,0) Exercicio 3 - Classes e Mermaid [aqui](u1_exercicio3.md).
+
 ---
 
 ## Unidade 2

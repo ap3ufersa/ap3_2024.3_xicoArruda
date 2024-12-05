@@ -5,8 +5,8 @@ public class Aula4_TestaAluno {
 
         System.out.println();
         System.out.println("Um aluno aprovado:");
-        
-        //um aluno aprovado
+
+        // um aluno aprovado
         Aluno xico = new Aluno();
         xico.setNome("Xico Arruda");
         xico.setNota1(7);
@@ -14,7 +14,7 @@ public class Aula4_TestaAluno {
         xico.setNota3(7);
         System.out.println(xico);
 
-        //muitos alunos
+        // muitos alunos
         System.out.println("Muitos alunos, notas aleatórias:");
         for (int i = 0; i < 99; i++) {
             Aluno umAluno = new Aluno();

@@ -5,8 +5,8 @@ public class Aula3_1_MediaProgEstruturada {
         double nota2 = 8.0;
         double nota3 = 6.5;
 
-        double soma = ?;
-        double media = ?;
+        double soma = nota1 + nota2 + nota3;
+        double media = soma / 3;
 
         System.out.println(media);
     }

@@ -7,6 +7,9 @@ public class Aluno {
     private LocalDate dataNascimento;
     private LocalDate dataCadastro = LocalDate.now();
 
+    public Aluno() {
+    }
+
     public Aluno(String nomeCompleto) {
         this.nomeCompleto = nomeCompleto;
     }

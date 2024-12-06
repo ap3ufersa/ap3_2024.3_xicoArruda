@@ -15,11 +15,11 @@
 
 ### Aula 3 - 05/12/2024
 
-1. (2,0) Exercicio 3 - Classes e Mermaid [aqui](u1_exercicio3.md).
+1. (2,0) Exercicio 3 - Questão 1 [daqui](u1_exercicio3.md).
 
 ### Aula 4 - 06/12/2024
 
-1. (1,0) Exercicio 3 - Diag. Sequencia e Mermaid [aqui](u1_exercicio3.md).
+1. (1,0) Exercicio 4 - Questão 2 [daqui](u1_exercicio3.md).
 
 ---
 

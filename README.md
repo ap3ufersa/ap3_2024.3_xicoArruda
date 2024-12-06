@@ -18,21 +18,21 @@ Controle de versão, classe Pessoa, coleções e [exercícios](unidade1/aula2.md
 
 Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O. e [exercícios](unidade1/aula3.md).
 
-### U2 - Aula 4 - 06/12/2024 - Lista ligada, datas, Scanner (1,0)
+### U2 - Aula 4 - 06/12/2024 - Lista ligada, datas, Scanner (2,0)
 
 Lista ligada, formatação da saída e datas com [exercícios](unidade1/aula4.md).
 
-### U2 - Aula 5 - 12/12/2024 - Visibilidade, Composição (2,0)
+### U2 - Aula 5 - 12/12/2024 - Visibilidade, Composição (3,0)
 
 UML e visibilidade com [exercícios](unidade1/aula5.md) e [exercícios](unidade1/aula6.md).
 
-### U2 - Aula 6 - 13/12/2024 - Início de Herança (2,0)
+### U2 - Aula 6 - 13/12/2024 - Colação de Grau (0,0)
 
-Herança, MeR UmPraMuitos com [exercícios](unidade2/aula8.md).
+Não tem aula.
 
 ### U3 - Aula 7 - 19/12/2024 - Herança e Polimorfismo (2,5)
 
-Herança e Polimorfismo com [exercícios](unidade2/aula9.md) e mais [exercícios](unidade2/aula10.md).
+Herança e Polimorfismo com [exercicios](unidade2/aula8.md),[exercícios](unidade2/aula9.md) e mais [exercícios](unidade2/aula10.md).
 
 ### U3 - Aula 8 - 20/12/2024 - Exceptions (2,5)
 

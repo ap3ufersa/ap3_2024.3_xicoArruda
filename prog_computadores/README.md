@@ -19,7 +19,7 @@
 
 ### Aula 4 - 06/12/2024
 
-1. (1,0) Exercicio 4 - Questão 2 [daqui](u1_exercicio3.md).
+1. (2,0) Exercicio 4 - Questão 2 [daqui](u1_exercicio3.md).
 
 ---
 

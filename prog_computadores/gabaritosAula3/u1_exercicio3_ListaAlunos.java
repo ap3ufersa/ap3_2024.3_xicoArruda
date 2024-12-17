@@ -1,13 +1,13 @@
 import java.util.LinkedList;
 
-public class prog_computadores/u1_exercicio3_ListaAlunos.java {
+public class u1_exercicio3_ListaAlunos {
 
     public static void main(String[] args) {
         LinkedList<Aluno> osQueridos = new LinkedList<Aluno>();
 
         for (int i = 0; i < 89764; i++) {
             Aluno umQuerido = new Aluno();
-            umQuerido.setNomeCompleto("AlunoNumero" + i);
+            umQuerido.setNome("AlunoNumero" + i);
             osQueridos.add(umQuerido);
         }
 

@@ -14,19 +14,11 @@ classDiagram
             - double nota1
             - double nota2
             - double nota3
-            + String getNome()
-            + void setNome(String nome)
-            + double getNota1()
-            + void setNota1(double nota)
-            + double getNota2()
-            + void setNota2(double nota)
-            + double getNota3()
-            + void setNota3(double nota)
-            + String toString()
             + double getMedia()
             + boolean isAprovadoMedia()
             + String getNomeMaiusculo()
             + String getNomeMinusculo()
+            // get, set, toString()
         }
 
         class TestaAluno {

@@ -35,6 +35,6 @@ classDiagram
 
 Após concluir cada questão, faça _commit_ localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub. Conforme [figura](https://drive.google.com/open?id=1dV5TwUdMxSmh80sx13epVcJFewIT_MVk).
 
-Gabaritos para ajudar no exercícios [aqui](gabaritos).
+Gabaritos para ajudar no exercícios [aqui](../unidade2/).
 
 Entregue a folha assinada!

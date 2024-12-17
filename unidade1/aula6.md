@@ -9,21 +9,21 @@ classDiagram
     namespace package_aluno {
         class Pessoa {
             - String nome
-            // get, set, toString
+            // get, set, toString()
         }
 
         class Aluno {
             - double nota1
             - double nota2
             - double nota3
-            // get, set, toString
+            // get, set, toString()
         }
 
         class TestaAluno {
             + void main()
         }
     }
-    
+
     Aluno "1..*" -- "1" TestaAluno : usa
     Aluno "1" -- "1" Pessoa : é um
 ```

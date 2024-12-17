@@ -32,6 +32,6 @@ classDiagram
 
 ### Exercícios em Sala
 
-Gabaritos para ajudar no exercícios [aqui](gabaritos).
+Gabaritos para ajudar no exercícios [aqui](../unidade3_aula7/).
 
 Faça _commit_ e _push_. Entregue a folha assinada!

@@ -27,9 +27,9 @@ classDiagram
             + void main()
         }
     }
-    Aluno "1..*" -- "1" Endereco : "tem"
-    Aluno "1..*" -- "1" TestaAluno : "alunos"
-    Aluno "1" -- "1" Pessoa : "é uma"
+    Aluno "1..*" -- "1" Endereco : tem um
+    Aluno "1..*" -- "1" TestaAluno : usa
+    Aluno "1" -- "1" Pessoa : é um
 ```
 
 ### Exercícios em Sala

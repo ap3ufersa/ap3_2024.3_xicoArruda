@@ -26,8 +26,8 @@ classDiagram
             + void main()
         }
     }
-    Aluno "1..*" -- "1" Endereco : "tem"
-    Aluno "1..*" -- "1" TestaAluno : "alunos"
+    Aluno "1..*" -- "1" Endereco : tem
+    Aluno "1..*" -- "1" TestaAluno : usa
 ```
 
 ### Exercícios em Sala

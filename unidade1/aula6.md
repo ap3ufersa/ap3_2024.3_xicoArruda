@@ -2,32 +2,28 @@
 
 ### Exercício Resolvido
 
-1. Crie uma classe ```Pessoa``` que tenha o atributo nome. Crie uma classe ```Aluno``` que herda de ```Pessoa``` e tem três notas. Crie a classe NotaInvalidaException. Use todas as classes em ```TestaPessoa``` e ```TestaAluno```.
+1. Crie uma classe `Pessoa` que tenha o atributo nome. Crie uma classe `Aluno` que herda de `Pessoa` e tem três notas. Crie a classe NotaInvalidaException. Use todas as classes em `TestaPessoa` e `TestaAluno`.
 
 ```mermaid
 classDiagram
     namespace package_aluno {
         class Pessoa {
             - String nome
-            //getters, setters, toString
+            // get, set, toString
         }
 
         class Aluno {
             - double nota1
             - double nota2
             - double nota3
-            //getters, setters, toString
-        }
-
-        class NotaInvalidaException {
-            + String getMessage()
+            // get, set, toString
         }
 
         class TestaAluno {
             + void main()
         }
     }
-    Aluno "1..*" -- "1" Endereco : tem um
+    
     Aluno "1..*" -- "1" TestaAluno : usa
     Aluno "1" -- "1" Pessoa : é um
 ```

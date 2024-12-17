@@ -13,13 +13,13 @@ classDiagram
             - double nota2
             - double nota3
             - Endereco endereco
-            //getters, setters, toString
+            // get, set, toString
         }
 
         class Endereco {
             - String rua
             - String cidade
-            //getters, setters, toString
+            // get, set, toString
         }
 
         class TestaAluno {

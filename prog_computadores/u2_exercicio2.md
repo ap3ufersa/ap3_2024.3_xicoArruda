@@ -7,11 +7,11 @@ O exercício consiste em implementar em Java um pedaço da modelagem já feita. 
 Para testar e executar, você deverar usar um ambiente web e fazer em Java. Para isso, siga os passos:
 1. Acesse o [jddodle](https://www.jdoodle.com/)
 2. Clique em "Let's code"
-3. Marque as opções: Java, Multi-file, Empty Project
+3. Marque as opções: Java, Multi-file, Empty Project confome [figura](u2_exercicio2_config_jdoodle.png).
 4. Renomeie MyClass.java para Estoque.java
 5. Crie um novo arquivo Produto.java
 6. Copie do [gabarito](gabaritosAula5) e cole o codigo no respectivo arquivo.
 7. Substitua "?" pelo respectivo tipo (String, int). 
-8. Execute. A saída deve ficar como na imagem.
+8. Execute. A saída deve ficar como [na imagem](u2_exercicio2_jdoodle_saida.png).
 
 Copie o conteudo do jdoodle para um arquivo local, salve, commit, push.

@@ -1,3 +1,4 @@
+//note o extends
 public class Aluno extends Pessoa {
     private double nota1 = -1;
     private double nota2 = -1;

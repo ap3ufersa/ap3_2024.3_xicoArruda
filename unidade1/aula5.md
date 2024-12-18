@@ -2,23 +2,23 @@
 
 ### Exercício Resolvido
 
-1. Crie uma classe ```Aluno``` que tenha os atributos nome e três notas. Crie a classe Endereço, com Rua e Cidade. Cada aluno tem apenas 1 endereço. Componha as classes e teste na classe ```TestaAluno```. 
+1. Crie uma classe `Aluno` que tenha os atributos nome e três notas. Crie a classe Endereço, com Rua e Cidade. Cada aluno tem apenas 1 endereço. Componha as classes e teste na classe `TestaAluno`. 
 
 ```mermaid
 classDiagram
     namespace package_aluno {
         class Aluno {
-            - String nome
-            - double nota1
-            - double nota2
-            - double nota3
-            - Endereco endereco
+            - nome: String
+            - nota1: double
+            - nota2: double
+            - nota3: double
+            - endereco: Endereco
             // get, set, toString()
         }
 
         class Endereco {
-            - String rua
-            - String cidade
+            - rua: String
+            - cidade: String
             // get, set, toString()
         }
 
@@ -26,8 +26,9 @@ classDiagram
             + void main()
         }
     }
-    Aluno "1..*" -- "1" Endereco : tem
-    Aluno "1..*" -- "1" TestaAluno : usa
+    Aluno "1..1" o-- Endereco : tem_um
+    Aluno ..> TestaAluno : usa
+
 ```
 
 ### Exercícios em Sala

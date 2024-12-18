@@ -35,4 +35,4 @@
 
 ### Aula 6 - 20/12/2024
 
-1. (5,0) Exercicio 6 (u3_exercicio1.md).
+1. (5,0) Exercicio 6 [daqui](u3_exercicio1.md).

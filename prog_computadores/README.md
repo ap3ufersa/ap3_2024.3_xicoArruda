@@ -17,23 +17,22 @@
 
 1. (2,0) Exercicio 3 - Questão 1 [daqui](u1_exercicio3.md).
 
-### Aula 4 - 06/12/2024
-
-1. (2,0) Exercicio 4 - Questão 2 [daqui](u1_exercicio3.md).
-
 ---
 
 ## Unidade 2
 
-### Exercício de Avaliação
+### Aula 4 - 06/12/2024
 
-[Aqui.](u2_exercicio1.md)
+1. (2,0) Exercicio 4 [daqui](u2_exercicio1.md).
 
+### Aula 5 - 19/12/2024
+
+2. (3,0) Exercicio 5 [daqui](u2_exercicio2.md).
 
 ---
 
 ## Unidade 3
 
-### Exercício de Avaliação
+### Aula 6 - 20/12/2024
 
-[Aqui.](u3_exercicio1.md)
+1. (5,0) Exercicio 6 (u3_exercicio1.md).

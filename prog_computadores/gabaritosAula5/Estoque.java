@@ -20,18 +20,22 @@ class Estoque {
     public int verificarEstoqueProduto(String codigo) {
         for (Produto produto : produtos) {
             if (produto.getCodigo().equals(codigo)) {
-                return produto.verificarEstoqueMinimo() ? 1 : 0;
+                if (produto.verificarEstoqueMinimo()) {
+                    return 1;
+                } else {
+                    return 0;
+                }
             }
         }
         return 0;
     }
 
- public static void main(String[] args) {
+    public static void main(String[] args) {
         Estoque estoque = new Estoque();
 
-        // Criando ? produtos
+        // Criando produtos
         for (int i = 1; i <= ?; i++) {
-            ? codigo = "P00" + i; //"P001", "P002"...
+            ? codigo = "P00" + i; // "P001", "P002"...
             ? nome = "Produto " + i;
             ? qtdMinimaEstoque = 5 + i; // Quantidade de 5 a 15
 
@@ -41,7 +45,12 @@ class Estoque {
 
         System.out.println("\nProdutos no estoque:");
         for (Produto produto : estoque.produtos) {
-            String statusEstoqueMinimo = produto.verificarEstoqueMinimo() ? "Estoque Suficiente" : "Estoque Insuficiente";
+            String statusEstoqueMinimo;
+            if (produto.verificarEstoqueMinimo()) {
+                statusEstoqueMinimo = "Estoque Suficiente";
+            } else {
+                statusEstoqueMinimo = "Estoque Insuficiente";
+            }
             System.out.println("Código: " + produto.getCodigo() + ", Nome: " + produto.getNome() +
                                ", Estoque: " + produto.getQuantidadeEmEstoque() +
                                ", Quantidade Mínima: " + produto.getQuantidadeMinimaEstoque() +
@@ -49,4 +58,3 @@ class Estoque {
         }
     }
 }
-

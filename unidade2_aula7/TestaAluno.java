@@ -8,8 +8,8 @@ public class TestaAluno {
         novoAluno.setNota3(9.0);
 
         Endereco endereco = new Endereco();
-        endereco.setRua("Rua do aluno, 999");
-        endereco.setCidade("Angicos");
+        endereco.setRua("Rua do aluno, numero zero");
+        endereco.setCidade("AngicosCity");
 
         novoAluno.setEndereco(endereco);
 

@@ -11,7 +11,7 @@ classDiagram
             - nome: String
             - quantidade: int
             - categoria: Categoria
-            + Produto(nome, quantidade)
+            + Produto(nome, quantidade, categoria)
             //getters, setters, toString()
         }
 

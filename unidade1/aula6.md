@@ -24,7 +24,7 @@ classDiagram
         }
     }
 
-    Aluno "1" --|> Pessoa : é_um
+    Aluno --|> Pessoa : é_um
     TestaAluno ..> Aluno : usa
 ```
 

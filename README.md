@@ -30,11 +30,11 @@ Não teve aula.
 
 Não teve aula.
 
-### U2 - Aula 7 - 19/12/2024 - Visibilidade, Composição (3,0)
+### U2 - Aula 7 - 19/12/2024 - Visibilidade, Composição (1,5)
 
 UML e visibilidade com [exercícios](unidade2_exercicio2.md) para casa.
 
-### U3 - Aula 8 - 20/12/2024 - Herança, Polimorfismo, Exceptions (5,0)
+### U3 - Aula 8 - 20/12/2024 - Herança, Polimorfismo, Exceptions (3,0)
 
 Exceptions com [exercícios](unidade3_exercicio1.md) para casa.
 
